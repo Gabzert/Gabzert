@@ -5,11 +5,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabzert&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About Me
-I'm a 23 year old programming student at 42 Firenze with 
+I'm a 23 year old programming student at 42 Firenze
 
-Currently studying at 42 Firenze.
+### 📅 Hobbies
+* Playing video games
+* D&D, both as player and DM
+* Cooking
 
-<p align="left">Hello World!!</p>
 
 ###
 
