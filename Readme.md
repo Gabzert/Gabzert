@@ -1,4 +1,5 @@
 # Hi, I'm Gabriele! 👋, aspiring sofware developer. </br>
+
 ---
 [![gfantech's 42 stats](https://badge.mediaplus.ma/binary/gfantech?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
@@ -14,6 +15,8 @@ I'm a 23 year old programming student at 42 Firenze
 
 
 ###
+
+## Known languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
