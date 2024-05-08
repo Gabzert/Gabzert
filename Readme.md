@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabzert&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About Me
-I'm a 23 year old programming student at 42 Firenze
+I'm a 24 year old programming student at 42 Firenze, currently studying to obtain the RNCP 6 and 7 certificate
 
 ### 📅 Hobbies
 * Playing video games
